@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614743402 source:d:\bookstore\bookstore.c
+
+1615288350 source:d:\bookstore\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
